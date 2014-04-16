@@ -1,1 +1,5 @@
 /*CSS Style Document*/
+p {color: red;}
+img {height: 480px; width: 640px;}
+li {list-style-type: square;}
+h1 {font-size: 40pt; font-family: papyrus;}
